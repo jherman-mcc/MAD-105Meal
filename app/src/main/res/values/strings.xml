@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Meal</string>
+    <string name="textTitle">Meal</string>
+    <string name="mealCost">Meal Cost</string>
+    <string name="tipAmount">Meal Cost</string>
+    <string name="btnCharge">Calculate Total Amount</string>
+    <string name="prompt">Select Lot</string>
+    <string-array name="txtGroup">
+        <item>0.05</item>
+        <item>0.10</item>
+        <item>0.15</item>
+        <item>0.20</item>
+        <item>0.25</item>
+</string-array>
+</resources>
